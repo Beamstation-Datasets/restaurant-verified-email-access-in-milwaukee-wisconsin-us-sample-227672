@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Milwaukee, Wisconsin, US",
+  "export_job_id": "208a2a33-2e6b-4330-8779-32fa06ed55cc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 227672,
+  "location_name": "Milwaukee",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-milwaukee-wisconsin-us-sample-227672",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/227672/beamstation_227672_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 36,
+  "sample_sha256": "6a48e618f28dee07b51af053547bca10238f86b8a5059d21fb5e2995a89074f0",
+  "sample_size_bytes": 159979,
+  "total_records": 360,
+  "updated_at": "2026-04-07T23:11:26.259821+00:00"
+}
