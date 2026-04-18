@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Milwaukee, Wisconsin, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `227672` |
 | Location | Milwaukee |
 | Category | Restaurants |
-| Full dataset size | 360 records |
-| Free sample size | 36 records (10.0%) |
-| Last export | 2026-04-07T23:11:26.259821+00:00 |
+| Full dataset size | 358 records |
+| Free sample size | 35 records (9.78%) |
+| Last export | 2026-04-15T04:55:56.088193+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-milwaukee-wisconsin-us-sample-227672/releases/download/sample-latest/beamstation_227672_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
