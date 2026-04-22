@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b94573f8-4388-48ef-bd28-e1823dc3eaee",
+  "export_job_id": "74fdbc3a-ef6f-4570-ac36-16012c778c50",
   "id_short": 227672,
-  "published_at": "2026-04-18T07:39:16Z",
+  "published_at": "2026-04-22T19:24:42Z",
   "repo_name": "restaurant-verified-email-access-in-milwaukee-wisconsin-us-sample-227672",
   "sample_asset_name": "beamstation_227672_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/227672/beamstation_227672_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "9b1194b905fab2b916c6a5e16e42445f281a31581c952552d2da0560bae59f77",
-  "sample_size_bytes": 157427,
-  "total_records": 358
+  "sample_records": 21,
+  "sample_sha256": "0408d6f654be6eec6dea533f4ca7bffa2014a341f734e57dbe02108483ac8c65",
+  "sample_size_bytes": 99957,
+  "total_records": 218
 }
